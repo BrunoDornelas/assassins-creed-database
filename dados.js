@@ -6,7 +6,7 @@ let dados = [
     cenario: "Terra Santa",
     periodoHistorico: "Terceira Cruzada",
     sinopse:
-      "Ambientado na Terra Santa durante a Terceira Cruzada, o jogador controla Altaïr Ibn-La'Ahad, um mestre Assassino que, após um fracasso em uma missão, é despojado de seu posto e deve reconquistar a confiança da Ordem dos Assassinos. Ao longo da jornada, Altaïr descobre uma conspiração que ameaça tanto os Cruzados quanto os Sarracenos, e se envolve em uma luta épica contra a poderosa Ordem dos Templários.",
+      "Ambientado na Terra Santa durante a Terceira Cruzada, o jogador controla Altair Ibn-La'Ahad, um mestre Assassino que, após um fracasso em uma missão, é despojado de seu posto e deve reconquistar a confiança da Ordem dos Assassinos. Ao longo da jornada, Altaïr descobre uma conspiração que ameaça tanto os Cruzados quanto os Sarracenos, e se envolve em uma luta épica contra a poderosa Ordem dos Templários.",
   },
   {
     nome: "Assassin's Creed II",
