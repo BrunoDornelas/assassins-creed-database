@@ -33,7 +33,7 @@ let dados = [
     cenario: "Constantinopla e Masyaf",
     periodoHistorico: "Império Otomano",
     sinopse:
-      "Ezio, agora um mestre Assassino, viaja para Constantinopla em busca de respostas sobre os mistérios da Ordem dos Assassinos. Ele encontra Altaïr Ibn-La'Ahad em visões, e juntos, eles desvendam os segredos da Primeira Civilização e o destino da Irmandade.",
+      "Ezio, agora um mestre Assassino, viaja para Constantinopla em busca de respostas sobre os mistérios da Ordem dos Assassinos. Ele encontra Altair Ibn-La'Ahad em visões, e juntos, eles desvendam os segredos da Primeira Civilização e o destino da Irmandade.",
   },
   {
     nome: "Assassin's Creed III",
